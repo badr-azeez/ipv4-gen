@@ -5,7 +5,7 @@ generate ipv4 random and  range
 ## Installation
 
 ```bash
-git https://github.com/badr-azeez/ipv4-gen.git
+git clone  https://github.com/badr-azeez/ipv4-gen.git
 ```
 
 ## Usage
